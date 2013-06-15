@@ -1,0 +1,6 @@
+c:\users\serkan\documents\visual studio 2012\Projects\DataStructures\DataStructures\bin\Debug\DataStructures.exe.config
+c:\users\serkan\documents\visual studio 2012\Projects\DataStructures\DataStructures\bin\Debug\DataStructures.exe
+c:\users\serkan\documents\visual studio 2012\Projects\DataStructures\DataStructures\bin\Debug\DataStructures.pdb
+c:\users\serkan\documents\visual studio 2012\Projects\DataStructures\DataStructures\obj\Debug\DataStructures.csprojResolveAssemblyReference.cache
+c:\users\serkan\documents\visual studio 2012\Projects\DataStructures\DataStructures\obj\Debug\DataStructures.exe
+c:\users\serkan\documents\visual studio 2012\Projects\DataStructures\DataStructures\obj\Debug\DataStructures.pdb
